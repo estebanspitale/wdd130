@@ -5,9 +5,9 @@ Fonts are separated by a & */
 @import url('https://fonts.googleapis.com/css2?family=Permanent+Marker&family=Rubik+Dirt&display=swap');
 :root {
   /* change the values below to your colors from your palette */
-  --primary-color: #6f6eb9   ;
-  --secondary-color: #547878 ;
-  --accent1-color: #121252;
+  --primary-color: #4D4AE8;
+  --secondary-color: #547878;
+  --accent1-color: #3333F8;
   --accent2-color: #89898A;
 
   /* change the values below to your chosen font(s) */
