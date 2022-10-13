@@ -33,9 +33,16 @@ div {
   max-width: 1600px;
   margin: 0 auto;
   }
+#content { 
+  max-width: 1600px;
+  margin: 0 auto;
+}
 header {
   background-color: #396E94;
   }
+.logo {
+  width: 80px;
+}
 nav a {
   color: #ffffff;
   text-align: center;
